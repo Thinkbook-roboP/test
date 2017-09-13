@@ -1,1 +1,0 @@
-localのmasterブランチからremoteのDai1678/testブランチにpushしてみよう
